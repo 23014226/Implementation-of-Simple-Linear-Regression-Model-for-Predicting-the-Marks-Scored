@@ -76,19 +76,22 @@ df.head()
 ![image](https://github.com/23014226/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568974/eaba6326-1ede-4170-bd22-c50221beafd7) 
 
 f.tail()
+
 ![image](https://github.com/23014226/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568974/6bdd9760-b1d4-48f4-b7f0-d2e57f9f3d0e)
 
 X and Y values
+
 ![image](https://github.com/23014226/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568974/3dc6b84f-e54b-43f8-a9d7-63bf185c4efc)
 
 Predication values of X and Y
+
 ![image](https://github.com/23014226/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568974/f4755c5c-1a8c-4596-8874-981f819b698b)
 
 MSE,MAE and RMSE
+
 ![image](https://github.com/23014226/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568974/17350180-a8a4-42f6-a9e2-c124903a1898)
 
 Training Set
-
 
 ![image](https://github.com/23014226/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568974/b4927b85-119a-4207-a4de-136330d407e0)
 
